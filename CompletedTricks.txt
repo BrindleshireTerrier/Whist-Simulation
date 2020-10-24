@@ -1,0 +1,6 @@
+Trumps: DIAMONDS
+Player 1: 10 H
+Player 2: K D
+Player 3: K S
+Player 0: 8 H
+------------------------
